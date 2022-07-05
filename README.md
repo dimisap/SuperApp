@@ -2,6 +2,8 @@
 
 This is an application for the Quantum Mechanics.
 
+It is developed as a project for my MSc studies in the terms of a course.
+
 There are pages with information about Quantum Mechanics and a page where you can test your knowledge on this subject depending the difficulty you want.
 
 There is the functionality that you can sign up and sign into the app. The users of the app are distinguished between simple users, coordinators and one administrator.
