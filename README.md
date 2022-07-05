@@ -13,6 +13,6 @@ A coordinator can do everything a user can do and also he can check the question
 
 The administrator has all the previous functionalities and moreover he can delete a user, or change his role(simple user, coordinator).
 
-The database of the app is in the SQL file(users.sql) and the credentials of the administrator is username: apostolopoulos, password:qwerqwer.\
+The database of the app is in the SQL file(users.sql) and the credentials of the administrator are username: apostolopoulos, password:qwerqwer.
 
 //Apostolopoulos Dimitris
